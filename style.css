@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+    background-color: #ff9d00;
+}
+
+h1 {
+    color: #000000;
+}
+
+.search-container {
+    margin: 20px auto;
+}
+
+#search-input {
+    padding: 10px;
+    width: 300px;
+}
+
+#search-button {
+    padding: 12px 15px;
+    background-color: black;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#results {
+    margin-top: 20px;
+}
